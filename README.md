@@ -1,4 +1,7 @@
 # team6-project1  -  WHATS UP CHICAGO
+
+https://yzhouyzhou.github.io/team6-project1/
+
 *   What's Up Chicago PAGE (index.html)
 
 *   WELCOME PAGE (index1.html)
